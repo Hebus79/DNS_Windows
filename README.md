@@ -15,7 +15,7 @@ Quête WCS DNS sous Windows
 ![Install_role_DNS](https://github.com/Hebus79/DNS_Windows/blob/main/Images/3-Ajout_nouvelle_zone_de_recherche_directe-Wilder_Lan.png)
 
 
-## 4) Ajouter un nouvel_hôte A ns1.Wilders.lan puis ajouter un nouvel Alias CNAME (dns.wilders.lan) et pour finir un nouveau_serveur de_messagerie MX (mail.wilders.lan)
+## 4) Ajouter un nouvel_hôte A (ns1.Wilders.lan) puis ajouter un nouvel Alias CNAME (dns.wilders.lan) et pour finir un nouveau_serveur de_messagerie MX (mail.wilders.lan)
 
 
 ![Install_role_DNS](https://github.com/Hebus79/DNS_Windows/blob/main/Images/4-Ajout_nouvel_hote_nouvel_Alias_nouveau_serveur_de_messagerie.png)
