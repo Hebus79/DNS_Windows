@@ -3,7 +3,7 @@ Quête WCS DNS sous Windows
 
 ## 1) Installation du rôle DNS dans Windows Server
 
-![VirtualBoxVM_J4StX15cD3.png](https://github.com/Skchaper/DNS_DIG/blob/main/Screenshots/VirtualBoxVM_J4StX15cD3.png)
+![Install_role_DNS](https://github.com/Hebus79/DNS_DIG/blob/main/Images/1)Ajout role DNS.png)
 
 ## 2) Ouvrir le gestionnaire DNS
 
